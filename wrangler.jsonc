@@ -28,7 +28,9 @@
 			"bucket_name": "flags"
 		}
 	],
-	"route": "tunnel.xxtanflask.info/secure*"
+	"route": "tunnel.xxtanflask.info/secure*",
+	"zone_id": "0b29218e7e82770d5dc303ce33c2e3e7",     
+    	"account_id": "95f74cec3586f8d1c9154bf0c83a761e"
 	/**
 	 * Environment Variables
 	 * https://developers.cloudflare.com/workers/wrangler/configuration/#environment-variables
